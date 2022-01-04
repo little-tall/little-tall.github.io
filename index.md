@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/little-tall/little-tall.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# 工作笔记电子化工程
+	也算是在大家的支持下吧，没有想到，还是挺多人在好奇我的工作进展。
+	领导们想要每半个月看一次我的工作笔记。
+	同事们也送了我漂亮的笔记本，也都排着队想看。现在数来数去，读者的数量在增加了。
+	将来要拿办公经费买一个显示器，挂在自己办公室外面，就像高铁/航班的时刻表一样，滚动展示我每天的工作，以及近期工作的一些发现吧。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 2022年开展的工作
+1. 本职工作还是天天和50多万字的文件打交道
+2. 开会，组织大家开会
+3. 写东西
+4. 时光轮转，我也要奔赴基层了，日子好快啊
+5. 司法考试
 
-### Markdown
+## 和文件打交道的体会
+1月4日，右手被文件划开了2022年的第一道伤口，挺疼的。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 开会
+1月16日就要准备开省级两会了
+到时候要做一期图文并茂的工作笔记出来
 
-```markdown
-Syntax highlighted code block
+## 写东西
+嗯，逐渐把自己写的一些东西搬运到这里
+### 公文词典
+1. 定分止争
+典出《管子·七臣七主》
 
-# Header 1
-## Header 2
-### Header 3
+## 司法考试
+从今日起，给大家表演一个，**在职无基础半年过法考的绝活。**
+~~要是能考过，我就去辞职，转型去当司法考试的辅导老师。~~
+*在这里要特别感谢“胥胥宝宝”*，你
+### 刑法
+#### 刑法概说
+##### 基本考情：
+1. 永远考察基础知识
+刑法是超级稳定的，考点重复率在70%以上。
+注重对基础理论的考察，告别“法条填鸭主义”，仅靠背诵法条就能通过考试的时代已经一去不复返了。
+作为国家级考试，一定是标准非常清晰的，定分止争的理论
+2. 体系性
+刑法是最有体系性的法律
+**主客观相统一学说**是最重要的体系标准
+3. 符合常识
+**法律是对民众公平正义的回应**
+**法律的生命是经验而不是逻辑**
+不能完全靠逻辑去推演，有许多难题，没有法学知识的人能做对，但是法考学生绞尽脑汁难以得出结论。
+4. 多刷题
+任何考试，想要通过，都需要多多刷题。
 
-- Bulleted
-- List
+##### 基础知识
+1. 什么是刑法
+刑法是犯罪和法律后果的合成
+由犯罪论和后果论构成
+“杀人偿命”，杀人是犯罪行为，偿命是后果。
+2. 我国只有一部单行刑法
+1998年全国人大关于逃汇套汇的决定
+3. 我们的天性不愿意接受多元主义
+但是需要学会适当的折中
+徐然同学特别推崇老子的“中庸”，还是很有道理的
+4. 法益是入罪的基础，伦理作为出罪的依据
+  - 1998年，姚丽案件，面对歹徒抢劫银行，为保护保险柜里30万元，拿出抽屉里2万元打发了劫匪。事后姚丽却被开除，理由是**“没有用生命保护国家财产”。**
+  - 为了救人，酒驾开车送人去医院。是否构成犯罪？（不构成）
+  
+##### 法益的权属
+1. 生命权的归属
+生命权不完全属于自己，比如我想自杀，不能授权他人来杀我。
 
-1. Numbered
-2. List
+##### 别当杠精
+在偏见中找寻最好的平衡，在对立中寻求恰到好处的折中
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+##读书笔记
+### 政府工作报告
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/little-tall/little-tall.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
